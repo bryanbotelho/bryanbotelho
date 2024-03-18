@@ -5,9 +5,10 @@
 - &ensp; <img align="center" alt="ingles" height="23" src= "https://cdn-icons-png.flaticon.com/512/330/330459.png"> My name is Bryan Botelho and it is a pleasure to share my knowledge and experiences through this platform! <br>
 - &ensp; <img align="center" alt="portugues" height="23" src="https://cdn.icon-icons.com/icons2/40/PNG/128/flagofBrazil_6577.png"> Graduando em Ciências da computação <br> 
 - &ensp; <img align="center" alt="ingles" height="23" src= "https://cdn-icons-png.flaticon.com/512/330/330459.png"> Graduating in Computer Science <br> 
+ </div>
  
 ## Technologies and tools
-</div>
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -17,7 +18,7 @@
 <img src="https://icongr.am/devicon/csharp-original.svg" height="40" width="40" />
 <img src="https://icongr.am/devicon/cplusplus-original.svg" height="40" width="40" />
 <img src="https://icongr.am/devicon/postgresql-original.svg" height="40" width="40" />
-<div>
+</div>
 
 ## Statics 
   <div>
