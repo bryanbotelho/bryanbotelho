@@ -15,8 +15,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" height="40" width="40" />
-<img src="https://icongr.am/devicon/csharp-original.svg" height="40" width="40" />
-<img src="https://icongr.am/devicon/cplusplus-original.svg" height="40" width="40" />
+<img src="https://icongr.am/devicon/c-original.svg" height="40" width="40" />
 <img src="https://icongr.am/devicon/postgresql-original.svg" height="40" width="40" />
 </div>
 
