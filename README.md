@@ -17,6 +17,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" height="40" width="40" />
 <img src="https://icongr.am/devicon/c-original.svg" height="40" width="40" />
 <img src="https://icongr.am/devicon/postgresql-original.svg" height="40" width="40" />
+<img src="https://icongr.am/devicon/typescript-plain.svg"height="40" width="40" />
 </div>
 
 ## Statics 
