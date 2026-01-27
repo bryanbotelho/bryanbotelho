@@ -3,8 +3,8 @@
 <div style="margin: 2px;">
 - &ensp; <img align="center" alt="portugues" height="23" src="https://cdn.icon-icons.com/icons2/40/PNG/128/flagofBrazil_6577.png"> Meu nome é Bryan Botelho e é um prazer compartilhar meus conhecimentos e experiências através desta plataforma! <br>
 - &ensp; <img align="center" alt="ingles" height="23" src= "https://cdn-icons-png.flaticon.com/512/330/330459.png"> My name is Bryan Botelho and it is a pleasure to share my knowledge and experiences through this platform! <br>
-- &ensp; <img align="center" alt="portugues" height="23" src="https://cdn.icon-icons.com/icons2/40/PNG/128/flagofBrazil_6577.png"> Graduando em Ciências da computação <br> 
-- &ensp; <img align="center" alt="ingles" height="23" src= "https://cdn-icons-png.flaticon.com/512/330/330459.png"> Graduating in Computer Science <br> 
+- &ensp; <img align="center" alt="portugues" height="23" src="https://cdn.icon-icons.com/icons2/40/PNG/128/flagofBrazil_6577.png"> Graduado em Ciências da computação <br> 
+- &ensp; <img align="center" alt="ingles" height="23" src= "https://cdn-icons-png.flaticon.com/512/330/330459.png"> Graduated in Computer Science <br> 
  </div>
  
 ## Technologies and tools
