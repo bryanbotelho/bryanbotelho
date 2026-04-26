@@ -45,8 +45,8 @@
 ## 📊 GitHub Stats
 <div>
   <a href="https://github.com/bryanbotelho">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bryanbotelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanbotelho&layout=compact&langs_count=7&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bryanbotelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=60"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanbotelho&layout=compact&langs_count=7&theme=dark&cache_seconds=60"/>
   </a>
 </div>
 
